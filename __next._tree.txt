@@ -5,4 +5,4 @@
 :HL["/doctor/consultation-medical.png","image"]
 :HL["/doctor/surgery.jpg","image"]
 :HL["/brand/jj-full-korean.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"nnWeCXMa5dcgOXB6gvSiq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"8w5Lc9LOQdDXp4-_CLRnt"}
