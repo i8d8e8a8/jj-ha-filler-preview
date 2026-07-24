@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://jjzipza.github.io
+Sitemap: https://jjzipza.github.io/sitemap.xml
