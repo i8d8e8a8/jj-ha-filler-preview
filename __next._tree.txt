@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/0ree4-q~j7w2z.css","style"]
-:HL["/_next/static/chunks/0u.2qaggl6hj7.css","style"]
+:HL["/_next/static/chunks/0e~6627qvd0oi.css","style"]
 :HL["/_next/static/media/fca78c2ee6cec166-s.p.0kizb7t94.kuf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/doctor/consultation-medical.png","image"]
 :HL["/doctor-procedure-final.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-X1zkqzfaONinUoShjGMy"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ZzWKJ4s2POcyRKYsZfVyK"}
